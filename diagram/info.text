@@ -1,3 +1,53 @@
 ================
 importent notes
 ================
+#Institute registration
+    Institute 
+    ---page1---
+        fullName 
+        shortName
+        logo
+        email
+        mobile
+        admissionCellEmail
+        admissionCellMobile
+    ---page2---
+        address
+        district
+        pin
+        state
+        country
+    ---page3---
+        title
+        headline
+        description
+        establishedOn
+        instituteType
+        instituteTypeDescription
+    ---page4---
+        departmentTitle
+        departmentDescription
+    ---page5---
+        departmentId
+        sectionTitle
+        sectionDescriptiona
+        -------------------------------------
+    admin registration
+        name
+        email
+        password
+    -------------------------------------------
+    notice section
+        noticeType
+
+        noticeId
+        noticeTypeId 
+        departmentId
+        sectionId
+        noticeTitle
+        noticeDescription
+        noticeDate
+        noticeFile
+        noticeLink
+
+        
